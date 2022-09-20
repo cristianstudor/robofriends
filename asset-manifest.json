@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cristianstudor/robofriends/static/css/main.ca2c4e26.css",
-    "main.js": "/cristianstudor/robofriends/static/js/main.6c9f44c4.js",
-    "static/js/787.32032a02.chunk.js": "/cristianstudor/robofriends/static/js/787.32032a02.chunk.js",
-    "static/media/Astraneo.woff": "/cristianstudor/robofriends/static/media/Astraneo.27705d87e8d432020d91.woff",
-    "index.html": "/cristianstudor/robofriends/index.html",
-    "main.ca2c4e26.css.map": "/cristianstudor/robofriends/static/css/main.ca2c4e26.css.map",
-    "main.6c9f44c4.js.map": "/cristianstudor/robofriends/static/js/main.6c9f44c4.js.map",
-    "787.32032a02.chunk.js.map": "/cristianstudor/robofriends/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/robofriends/static/css/main.9acbc0e0.css",
+    "main.js": "/robofriends/static/js/main.8de24675.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/Astraneo.woff": "/robofriends/static/media/Astraneo.27705d87e8d432020d91.woff",
+    "index.html": "/robofriends/index.html",
+    "main.9acbc0e0.css.map": "/robofriends/static/css/main.9acbc0e0.css.map",
+    "main.8de24675.js.map": "/robofriends/static/js/main.8de24675.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca2c4e26.css",
-    "static/js/main.6c9f44c4.js"
+    "static/css/main.9acbc0e0.css",
+    "static/js/main.8de24675.js"
   ]
 }
